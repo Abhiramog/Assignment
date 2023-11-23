@@ -1,4 +1,4 @@
-package sample;
+package experiments;
 
 import java.time.Duration;
 import java.util.Set;

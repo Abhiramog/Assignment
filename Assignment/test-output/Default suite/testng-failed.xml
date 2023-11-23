@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="sample.Layout3">
+      <class name="abhiram.Task">
         <methods>
-          <include name="WebTable"/>
-          <include name="setup"/>
+          <include name="Patientcount"/>
+          <include name="Setup"/>
         </methods>
-      </class> <!-- sample.Layout3 -->
+      </class> <!-- abhiram.Task -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
